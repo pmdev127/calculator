@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PM Calc</string>
+    <string name="calc_text">0</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="dash">/</string>
+    <string name="equal">=</string>
+</resources>
